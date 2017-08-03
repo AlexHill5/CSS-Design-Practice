@@ -1,0 +1,38 @@
+.cloud-text{
+    display: flex;
+    justify-content: flex-end;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    text-align: center;
+}
+.logo{
+    height: 400px;
+    width: 225px;
+    margin-right: 5%;
+}
+
+.logo-img{
+    height: 50%;
+    margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.cloud{
+    height: 375px;
+    padding-top: 2%;
+    padding-right: 7%;
+}
+
+
+
+.text{
+    height: 350px;
+    width: 250px;
+    margin-top: 5%;
+    margin-right: 5%
+}

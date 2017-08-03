@@ -1,0 +1,25 @@
+.about-wrapper{
+    display: flex;
+    height: 280px;
+}
+
+.about-logo{
+    height: 400px;
+    width: 225px;
+    padding-left: 3%;
+}
+
+.happy-img{
+    height: 225px;
+    width: 650px;
+    background-image: url('./happy.jpg');
+    background-size: cover;
+    margin-left: 20%; 
+    margin-top: 2%;
+    border: thin solid black;
+}
+
+.about-text{
+    margin-left: 35%;
+    margin-right: 10%
+}

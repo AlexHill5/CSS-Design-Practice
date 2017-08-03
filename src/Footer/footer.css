@@ -1,0 +1,23 @@
+.footer-container{
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 30%;
+    width: 100%;
+}
+
+.footer-content-container{
+    background-color: #000;
+    width: 100%;
+    height: 250px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+}
+
+.img-div{
+    background-image: url('./footer.gif');
+    height: 90px;
+    width: 100%;;
+}

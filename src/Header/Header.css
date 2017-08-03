@@ -1,0 +1,25 @@
+.header-wrapper{
+    display: flex;
+    height: 80px;
+    border-bottom: .5px solid black;
+    margin-left: 30%;
+    margin-right: 10%;
+    justify-content: flex-end;
+    
+
+}
+.links{
+    padding-top: 4.5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-decoration: none;
+    color: black;
+}
+
+
+.divider{
+    padding: 0;
+    border-right: thin solid black;
+    height: 10px;
+    margin: 70px 0 0;
+}
